@@ -1,0 +1,243 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<activity>
+	<course id='WiU'>Web Interface and Usability</course>
+	<title>Wk 4 Assignment- Mobile Homepage Wireframes.axml</title>
+	<overview type='text/html'><![CDATA[<h2>My World - Mobile Wireframes</h2>
+
+<p>Mobile device usage has increased dramatically in recent years. This increased usage, coupled with an increasingly competitive market has made the purchase of mobile devices more affordable. Today, more people access the web using their mobile device than they do using their home desktop computers. This is largely due to the increase in processing and connectivity available on most modern mobile devices. As a designer, it is your job to focus on these users. Know what their primary needs are, what they want and expect, and how much they are willing to tolerate, in order to create a more effective and enjoyable mobile experience. The information discussed and provided should help get you started. 
+
+THIS EXERCISE IS DUE AT THE BEGINNING OF LECTURE 8.</p>]]></overview>
+	<tags>
+		<tag>assignment</tag>
+	</tags>
+	<instructions type='text/html'><![CDATA[<ul>
+Re-design the worldsurf.com homepage page for mobile users. Use the Functional Specifications Document to:  
+<li>Create high-fidelity wireframes with annotations to represent the content & interactivity available in the interface, as well as the design patterns used.</li>
+<li>Your wire should include everything outlined in the functional specifications document, as well as appropriate branding, navigation, and a predominant call-to-action. The design strategy should support efficient methods for exploring information using a handheld device.</li>  
+<li>* Please note: your wire should show reflect everything required on the homepage, and should be structured to support mobile visitors, using the design patterns discussed in lecture and in the textbook.</li>
+<li>* Use “Annotations” to describe the patterns used and the reasoning for their use.</li>
+</ul>
+
+<ul>
+When you have completed this exercise:
+<li>Compress your documents for web delivery using .jpg format</li>
+<li>Save your wireframes as:  WiU????_Lab7wire_last name_first name_1.jpg (???? = YYMM)</li>
+<li>Zip these wires together and save this zip file as: WiU????_Lab7_last name_first name</li>
+<li>Submit your zip file using the form provided by the lab instructor/course director</li>
+<li>* Please note: wires submitted without  “Annotations” or “low-fidelity”, will receive a grade of 0.</li>
+</ul>
+
+<h4>Rubric - Mobile Homepage Wireframe</h4>
+<table border="2" rules="all">
+
+<tr>
+<th>Category</th>
+<th>Exemplery</th>
+<th>Accomplished</th>
+<th>Competent</th>
+<th>Developing</th>
+<th>Null</th>
+</tr>
+
+<tr>
+<th>Function</th>
+<th>20 points per (3) category</th>
+<th>15 points per</th>
+<th>10 points per</th>
+<th>5 points per</th>
+<th>0 points per</th>
+</tr>
+</tr>
+
+<tr>
+<td>Navigation</td>
+<td>
+<ol>
+<li>navigation model was incorporated to improve efficient exploring</li>
+<li>The navigation components were placed in an intuitive position</li>
+<li>Navigation cues were defined, meaningful, appropriate and descriptive</li>
+<li>Navigation cues are consistent with the Functional Specifications Doc</li>
+</ol>
+</td>
+<td>All but 1 of the required design patterns were presented</td>
+<td>All but 2 of the required design patterns were presented</td>
+<td>All but 3 of the required design patterns were presented</td>
+<td>NONE of the required design patterns were presented</td>
+</tr>
+
+<tr>
+<td>Interactivity</td>
+<td>
+<ol>
+The following were presented using the correct affordance/ signifier:
+<li>Log in form input fields with labels</li>
+<li>Log in form submit </li>
+<li>Navigation cues </li>
+<li>Featured destinations “Read more” signifier</li>
+<li>“Sign-up” signifier</li>
+</ol>
+</td>
+<td>All but 1 of the required design patterns were presented</td>
+<td>All but 2 of the required design patterns were presented</td>
+<td>All but 3 of the required design patterns were presented</td>
+<td>NONE of the required design patterns were presented</td>
+</tr>
+
+
+<tr>
+<td>Requirements</td>
+<td>
+<ol>
+Destination Form (editable) – 
+
+<li>Site value proposition – “a world of waves at your fingertips”</li>
+<li>Log in form –user, pass labels and fields, remember me, submit signifier</li>
+<li>Become a member - sign-up signifier</li>
+<li>Featured destination – photo, title, description, read more signifier</li>
+<li>Search utility (to provide search capabilities of all surf destinations)</li>
+<li>List of items (to provide browse capabilities of all surf destinations)</li>
+</ol>
+</td>
+<td>All but 1 of the required design patterns were presented</td>
+<td>All but 2 of the required design patterns were presented</td>
+<td>All but 3 of the required design patterns were presented</td>
+<td>NONE of the required design patterns were presented</td>
+</tr>
+
+<tr>
+<th>Form</th>
+<th>10 points per (3) category</th>
+<th>7 points per</th>
+<th>5 points per</th>
+<th>2 points per</th>
+<th>0 points per</th>
+</tr>
+</tr>
+
+
+<tr>
+<td>Visual Hierarchy</td>
+<td>
+<ol>
+<li>A  primary, secondary, page copy hierarchy is present</li>
+<li>Hierarchy utilizes effective white space to facilitate scanning</li>
+<li>Titles, page copy, feedback is differentiated using varied font sizes</li>
+<li>Typeface consistency supports the overall design strategy & context </li>
+<li>Sans Serif fonts used for page copy to support readability and usability</li>
+</ol>
+</td>
+
+<td>All but 1 of the required design patterns were presented
+</td>
+<td>All but 2 of the required design patterns were presented
+</td>
+<td>All but 3 of the required design patterns were presented
+</td>
+<td>NONE of the required design patterns were presented
+</td>
+</tr>
+
+<tr>
+<td>Visual Flow</td>
+<td>
+<ol>
+<li>Visual flow reinforces overall compositional movement</li>
+<li>Focal points were incorporated to aid movement</li>
+<li>Layout supports the intent of the interface (to sign-up)</li>
+<li>Layout reflects efficient use of screen real estate to guide visual attention</li>
+</ol>
+</td>
+
+<td>All but 1 of the required design patterns were presented
+</td>
+<td>All but 2 of the required design patterns were presented
+</td>
+<td>All but 3 of the required design patterns were presented
+</td>
+<td>NONE of the required design patterns were presented
+</td>
+</tr>
+
+<tr>
+<td>Grouping & Alignment</td>
+<td>
+<ol>
+Page elements are distinguished utilizing these 4 Gestalt Principles:
+<li>Proximity</li>
+<li>Similarity</li>
+<li>Continuity</li>
+<li>Closure</li>
+</ol>
+</td>
+<td>All but 1 of the required design patterns were presented
+</td>
+<td>All but 2 of the required design patterns were presented
+</td>
+<td>All but 3 of the required design patterns were presented
+</td>
+<td>NONE of the required design patterns were presented
+</td>
+</tr>
+
+<tr>
+<th>Usability</th>
+<th>10 points per (3) category</th>
+<th>7 points per</th>
+<th>5 points per</th>
+<th>2 points per</th>
+<th>0 points per</th>
+</tr>
+
+<tr>
+<td>Design Patterns</td>
+<td>
+<ol>
+<li>Bottom navigation</li>
+<li>Escape hatch</li>
+<li>Titled sections</li>
+<li>Right / left alignment</li>
+<li>Prominent “done” buttons </li>
+<li>Streamlined branding</li>
+<li>Vertical Stack</li>
+<li>feature, search, browse</li>
+<li>Generous borders</li>
+</ol>
+</td>
+<td>All but 1 of the required design patterns were presented
+</td>
+<td>All but 2 of the required design patterns were presented
+</td>
+<td>All but 3 of the required design patterns were presented
+</td>
+<td>NONE of the required design patterns were presented
+</td>
+</tr>
+</table>]]></instructions>
+	<pushDate day='23' />
+	<pullDate day='25' />
+	<startDate day='23' />
+	<endDate day='25' />
+	<effort>
+		<research minutes='30'/>
+		<administrative minutes='5' />
+		<work minutes='180' />
+	</effort>
+	<targets>
+	</targets>
+	<deliverables>
+		<header>Save your wireframe for web delivery in JPEG format.</header>
+		<archive filename='WiU????_Lab7_LastName_FirstName.zip'>
+			<file title='' formats='JPEG' filename='WiU????_Lab7_LastName_FirstName.zip'>Make sure that your submission is a zip file containing 1 or more JPEG showing the any and all states of your Ui.</file>
+		</archive>
+	</deliverables>
+	<objectives>
+		<header></header>
+	</objectives>
+	<intelligences>
+	</intelligences>
+	<guidelines>
+	</guidelines>
+	<resources>
+		<link title='Why It&apos;s Important to Annotate Your Wireframes' href='http://uxmovement.com/wireframes/why-its-important-to-annotate-your-wireframes/ ' applicability='necessary'>For information regarding callouts/ annotations. </link>
+	</resources>
+</activity>

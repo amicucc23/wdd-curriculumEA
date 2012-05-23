@@ -1,0 +1,262 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<activity>
+	<course id='WiU'>Web Interface and Usability</course>
+	<title>Wk2 Assignment-IA and Site Diagrams.axml</title>
+	<overview type='text/html'><![CDATA[<h2>Information Architecture & Site Diagrams</h2>
+
+<p>Information Architecture refers to the structural design of the information space to facilitate intuitive access to content. It focuses on the organization and labeling of web sites, online communities and software to support findability and usability. Websites are really non-linear story lines. They allow users to click around different pages within a website, in no particular order, thus revealing only pieces of the story at anytime.  This can create a potential problem when trying to understand how theses pieces of the story fit together within the overall context of the information. As web designers and developers it is our job to make the information easier to find and more understandable as a whole. A common solution employed by many information architects, is to create a sort of taxonomy or hierarchy with the content. THIS EXERCISE IS DUE AT THE BEGINNING OF LECTURE 4.</p>
+
+<p>The purpose of this exercise is to develop a better understanding of how to separate required site content into manageable pieces of information (chunking) in order to create a logical organization for efficient navigation. This organization is represented with a site diagram. Also referred to as a flowchart or sitemap, think of a site diagram as a blue print for an entire website. It should define the relationship (logic) between pages, sections and sub-sections or features. It should also represent, using connected lines, how these pages, sections and sub-sections are interconnected (branched) to make navigating more efficient and intuitive. Lastly, represent any interactive affordances available within the pages, which facilitate navigation.</p>]]></overview>
+	<tags>
+		<tag>assignment</tag>
+	</tags>
+	<instructions type='text/html'><![CDATA[<ul>
+<li>From the Client Meeting Notes below, identify the required content for each page (3) of the site</li>
+<li>Define the global navigation cues (pages of the site), to represent the sites top-level hierarchy.</li>
+<li>Define the sites second and third level hierarchies by creating titles to represent the required content sections and sub-sections/features.</li>
+<li>Create a color-coded site diagram to visually represent the proposed organization and hierarchy.</li>
+<li>Connect the content within this flowchart with lines to represent the direction of navigation through the sites hierarchy and the branching of pages into sections and sub-sections/features.</li>
+<li>Create a legend to define what each color represents (global navigation, section, sub-section)</li>
+<li>Use the corresponding grading rubric to verify all required content sections for your diagram.</li>
+</ul>
+
+<ul>
+<p>When you have completed this exercise:</p>
+<li>Compress your document for web delivery using .jpg format</li>
+<li>Save this file as: WiU???_Lab3_LastName_FirstName.jpg ( ? = numerical YYMM )</li>
+<li>Submit this exercise at the URL specified by the course director</li>
+</ul>
+
+<h3>Worldsurf.com</h3>
+<p>This site will be the first "user-generated" information resource of its kind, by providing surfers of all skill levels with detailed information about every known surf destination in the world. Site visitors will be introduced to the hundreds of possible surf destinations that have been discovered all over the world, by providing an easy and understandable method for exploring a world of surf. Features for each destination will include in-depth descriptions, high quality photography, a members contributed photo gallery, details of the wave type, bottom type, best season, tide, swell direction, crowd factor, ability levels and even suggestions for what type of board to bring. All created by surfers, for surfers.</p>
+
+<p>Become a registered member of worldsurf.com to unlock all of the content sections/features for hundreds of surf destinations. Members will have access to these additional destination features which include beach webcams, destination bookmarking, and an entire section of user generated “tips and tricks” dedicated to help you make the most informed decisions when planning your next surf trip. Member registration is free and easy, and the folks at worldsurf.com encourage every new visitor to sign-up.</p>
+
+
+<h2>Worldsurf.com: Client Meeting Notes</h2>
+
+<h3>Home Page Requirements:</h3>
+<p>The goal for the home page of worldsurf.com is to introduce new visitors to what the site is all about and provide insight into the type of content available. The home page should contain a section of brief copy describing the sites intent. The client will provide this content because they would like to keep the message short and to the point. The client would also like the home page to showcase a featured destination that will reflect the type of locations and the quality of the photography that will be used for all destinations found within the site. The featured destination will be titled and have a high quality photograph to represent it. Also, there will be a brief description of the destination (2 sentence max), with a link to the destinations page. There, they can explore all of the content sections/features that are available for this or any other chosen destination (see destinations page).</p> 
+
+<p>Additionally, the home page should introduce new visitors to the benefits for signing-up and direct them to the sign-up page where they can register for a membership for free Finally, the client would like to provide existing members with the ability to log in to their account, right from the home page Logging in will “unlock” the member’s only content sections available for each destination, thus providing registered members with all of the features that worldsurf.com will have to offer 3.</p>
+
+
+<strong>Project Manager Notes:</strong>
+<ol>
+<li>The goal of the client is to increase their convergence ratios by putting an emphasis on encouraging new visitors to become new members.</li>
+<li>The member’s log in form will require a username and password fields with labels, a “remember me” checkbox and a submit button.</li>
+<li>The goal of the client is to increase their repeat visitor traffic, and should allow members to log in to their account from the home page.</li>
+</ol>
+ 
+
+<h3>Destinations Page Requirements:</h3>
+<p>The destinations page is all about discovering amazing surf destinations around the world. The client wants to provide users with the ability to browse all of the surf destinations that have been discovered and contributed by administrators and worldsurf.com members. Understanding how to find these destinations is key. An interactive feature will be implemented into the destinations page in order to create an intuitive and efficient method for exploring the world of surf 4. Once a user has chosen a destination, worldsurf.com would like to provide them with all of the information they would need to help pick a location for their next surf trip.</p> 
+
+<p>Every visitor to worldsurf.com will have access to detailed information about each of the destinations found within the site. Each destination will have a thorough description of its location, in paragraph form. The client will provide the copy for these descriptions. A large, high quality photograph will showcase each destination. A gallery of member submitted photos should also be incorporated into this page to further showcase the destination while encouraging members to contribute to this “user-generated” aspect of the site. When planning a surf trip, it’s helps to be as informed as possible before you go. Every visitor to worldsurf.com should be provided with detailed information of the destination, which includes:</p>
+<ul>
+<li>Wave type</li>
+<li>Bottom type</li>
+<li>Best season</li>
+<li>Best tide</li>
+<li>Best swell directions</li>
+<li>Best board type</li>
+<li>Crowds</li>
+<li>Ability level</li>
+</ul>
+<p>For registered members there’s even more. Worldsurf.com would like to encourage new visitors to the site to register and become new members. This was pointed out as one of the client’s main goals, to increase conversions and increase repeat visitor traffic. In an effort to encourage member enrollments, worldsurf.com would like to incorporate “members only” content sections/features that are designed to provide even more helpful tools and content for picking the next surf trip. These sections/features are:</p>
+<ul>
+<li>Tips and Tricks (contains 5 member generated sub-content sections)</li>
+<li>What to bring, Getting here, Sleeping, Eating, Nearby Usefuls</li>
+<li>Destination Bookmarking (allows users to bookmark and view bookmarked destinations)</li>
+<li>Viewable list of user bookmarked destinations</li>
+<li>Web cam access and control</li> 
+<li>Pitch, pan, zoom and activation controls</li>
+<li>Time limit (user control is limited to 2 minute intervals)</li>
+</ul>
+<p>The client feels these member only content sections/features will be a big draw for visitors to the site. It was suggested that these sections be represented, but disabled, on the destinations page to entice visiting non-members to sign-up for a free membership 5. </p>
+<strong>Project Manager Notes:</strong>
+<p>The Google maps API will be used as the interactive feature. It was also suggested that additional alternate methods for exploring destinations be made available. These will include drop down menus or cascading lists to filter results.This will help us to facilitate the client’s goal of increased conversions</p>
+
+
+<h3>Sign-up Page Requirements:</h3>
+<p>The sign up page should highlight the benefits for becoming a member. By signing up, members will gain access to all of the “members only” content sections/features like member generated “tips and tricks”, the ability to bookmark destinations, view a list of currently bookmarked destinations and web cam access to the chosen destination with camera controls. Registration should be easy and only require the user to complete one form during the sign-up process 6.</p> 
+
+<p>The client would like to gather specific information from the user to help develop and improve a customized user experience. Additionally, they would like to establish a line of communication through an email subscription, to inform members of enhancements and updates to the worldsurf.com website. It was suggested that in doing so the amount of requested information be limited to only what is absolutely necessary. This is to avoid overwhelming or burdening the user with too many questions, that could create potential errors or worse, form abandonment 7. The information required from the user during registration is as follows:</p>
+<ul>
+<li>First name</li>
+<li>Last name</li>
+<li>Email</li>
+<li>Country</li>
+<li>Street address</li>
+<li>City</li> 
+<li>State</li>
+<li>Zip code</li>
+<li>Phone number (not required)</li>
+<li>Username</li>
+<li>Password</li>
+<li>Gender</li>
+<li>Age</li>
+<li>Countries of interest (customized user experience)</li>
+<li>Agree to terms</li>
+<li>Become a worldsurf.com nomad (email subscription)</li>
+
+</ul>
+<strong>Project Manager Notes:</strong>
+<ol>
+<li>The benefits for signing up should be highlighted on the sign-up page to encourage visitors to complete the registration process.</li>
+<li>We want to mistake proof and streamline the registration process as much as possible in order to increase the amount of successful form completions.</li>
+<li>More form completions equals more conversions, which will help us to facilitate the clients main goal. The form will need to include a submit affordance.</li></ol>
+
+<h4>Rubric - Information Architecture & Site Diagram</h4>
+<table border="2" rules="all">
+<tr>
+<th>Assesment</th>
+<th>Homepage</th>
+<th>Destination Page</th>
+<th>Sign-up Page</th>
+</tr>
+
+<td>33 points</td>
+<td>
+<strong>Hierarchy (3 levels represented)</strong>
+<p>Level 1 - Page (1 total)</p>
+<ol>
+<li>Home Page</li>
+</ol>
+
+<p>Level 2 - Main Content Sections (4 total)</p>
+<ol>
+<li>Site Introduction</li>
+<li>Featured Destination</li>
+<li>Become a Member</li>
+<li>Login</li>
+</ol>
+<p>Level 3 - Sub Content Sections / Features (12 total)</p>
+<ol>
+<li>(Site introduction must contain 1)</li>
+<li>(Featured Destination must contain 4)</li>
+<li>(Become a Member must contain 2)</li>
+<li>(Login must contain 5)</li>
+</ol>
+<strong>Color Coding & Legend - (3 levels of hierarchy)</strong>
+<ol>
+<li>Hierarchy is color coded to differentiate the 3 levels<li>
+<li>A legend has been incorporated</li>
+<li>The legend is color coded to represent hierarchy</li>
+</ol>
+
+<strong>Branching & Navigation</strong>
+<ol>
+<li>Diagram shows how these content sections are branched/connected to make navigating easy/efficient</li>
+</ol>
+</td>
+<td>
+<strong>Hierarchy (3 levels represented)</strong>
+<p>Level 1 - Page (1 total)</p>
+<ol>
+<li>Destinations Page</li>
+</ol>
+<p>Level 2 - Main Content Sections (5 total)</p>
+<ol>
+<li>Choose a destination</li>
+<li>Bookmarks</li>
+<li>Users submitted photos</li>
+<li>User Tips & Tricks</li>
+<li>Web Cam</li>
+</ol>
+<p>Level 3 - Sub Content Sections / Features (24 total)</p>
+<ol>
+<li>Choose a destination must contain 11)</li>
+<li>(Bookmarks must contain 2)</li>
+<li>(User submitted photos contains 0)</li>
+<li>(User Tips & Tricks must contain 5)</li>
+<li>(Web Cam must contain 6)</li>
+</ol>
+<strong>Color Coding & Legend - (3 levels of hierarchy)</strong>
+<ol>
+<li>Hierarchy is color coded to differentiate the 3 levels</li>
+<li>A legend has been incorporated</li>
+<li>The legend is color coded to represent hierarchy</li>
+</ol>
+
+<strong>Branching & Navigation</strong>
+<ol>
+<li>Diagram shows how these content sections are branched/connected to make navigating easy/efficient</li>
+</ol>
+</td>
+<td>
+<strong>Hierarchy (3 levels represented)</strong>
+<p>Level 1 - Page (1 total)</p>
+<li>Sign-up</li>
+<p>Level 2 - Main Content Sections (2 total)</p>
+<ol><li>Member Benefits</li>
+<li>Sign Up Form</li></ol>
+<p>Level 3 - Sub Content Sections / Features (17 total)</p>
+<ol>
+<li>(Member Benefits must contain 4)</li>
+<li>(Sign Up Form must contain 17)</li></ol>
+
+<strong>Color Coding & Legend - (3 levels of hierarchy)</strong>
+<ol><li>Hierarchy is color coded to differentiate the 3 levels</li>
+<li>A legend has been incorporated</li>
+<li>The legend is color coded to represent hierarchy</li>
+</ol>
+
+<strong>Branching & Navigation</strong>
+<ol>
+<li>Diagram shows how these content sections are branched/connected to make navigating easy/efficient</li></ol>
+</td>
+</tr>
+
+<tr>
+<td>22 Points</td>
+<td>All but 4 of the required elements were presented</td>
+<td>All but 5 of the required elements were presented</td>
+<td>All but 3 of the required elements were presented</td>
+</tr>
+
+
+<tr>
+<td>11 Points</td>
+<td>All but 8 of the required elements were presented</td>
+<td>All but 9 of the required elements were presented</td>
+<td>All but 6 of the required elements were presented</td>
+</tr>
+
+<tr>
+<td>0 Points</td>
+<td>None of the required elements were presented</td>
+<td>None of the required elements were presented</td>
+<td>None of the required elements were presented</td>
+</tr>
+
+
+</table>]]></instructions>
+	<pushDate day='9' />
+	<pullDate day='11' />
+	<startDate day='9' />
+	<endDate day='11' />
+	<effort>
+		<research minutes='30'/>
+		<administrative minutes='5' />
+		<work minutes='180' />
+	</effort>
+	<targets>
+	</targets>
+	<deliverables>
+		<header>Save your diagram for web delivery in JPEG format.</header>
+		<archive filename='WiU????_Lab3_LastName_FirstName.zip'>
+			<file title='' formats='JPEG' filename='WiU????_Lab3_LastName_FirstName.zip'>Make sure that your submission is a zip file containing 1 JPEG showing your flowchart.</file>
+		</archive>
+	</deliverables>
+	<objectives>
+		<header>null</header>
+	</objectives>
+	<intelligences>
+	</intelligences>
+	<guidelines>
+	</guidelines>
+	<resources>
+		<video title='Creating a Flowchart Using OmniGraffle' href='http://downloads.omnigroup.com/software/MacOSX/movies/OmniGraffle/tutorials/part3.mov?width=690&amp;height=388' minutes='15' applicability='helpful'>This resource will help you create a flowchart in OmniGraffle</video>
+	</resources>
+</activity>

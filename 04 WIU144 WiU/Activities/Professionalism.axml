@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<activity>
+	<course id='WiU'>Web Interface and Usability</course>
+	<title>Professionalism.axml</title>
+	<overview type='text/html'><![CDATA[<h2>Professionalism</h2>
+
+<p>Participation in this months discussion topics is required and will be calculated as part of your Global Professionalism Standards (GPS) grade, which is worth 10% of your overall grade.</p>]]></overview>
+	<tags>
+		<tag>activity</tag>
+	</tags>
+	<instructions type='text/html'><![CDATA[]]></instructions>
+	<pushDate day='2' />
+	<pullDate day='25' />
+	<startDate day='2' />
+	<endDate day='25' />
+	<effort>
+		<research minutes='0'/>
+		<administrative minutes='1' />
+		<work minutes='0' />
+	</effort>
+	<targets>
+	</targets>
+	<deliverables>
+		<header>There are no deliverables for this activity</header>
+	</deliverables>
+	<objectives>
+		<header>null</header>
+	</objectives>
+	<intelligences>
+	</intelligences>
+	<guidelines>
+	</guidelines>
+	<resources>
+	</resources>
+</activity>

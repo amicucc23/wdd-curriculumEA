@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<activity>
+	<course id='WiU'>Web Interface and Usability</course>
+	<title>Wk2 Activity - Navigation.axml</title>
+	<overview type='text/html'><![CDATA[]]></overview>
+	<tags>
+		<tag>activity</tag>
+	</tags>
+	<instructions type='text/html'><![CDATA[]]></instructions>
+	<pushDate day='1' />
+	<pullDate day='1' />
+	<startDate day='1' />
+	<endDate day='1' />
+	<effort>
+		<research minutes='0'/>
+		<administrative minutes='0' />
+		<work minutes='120' />
+	</effort>
+	<targets>
+	</targets>
+	<deliverables>
+		<header>There are no deliverables for this activity.</header>
+	</deliverables>
+	<objectives>
+		<header>null</header>
+	</objectives>
+	<intelligences>
+	</intelligences>
+	<guidelines>
+	</guidelines>
+	<resources>
+		<book title='Designing Interfaces' chapters='3 Getting Around: Navigation, Signposts and Wayfinding' pages='77-129' applicability='necessary'>Patterns for Effective Interactive Design</book>
+	</resources>
+</activity>

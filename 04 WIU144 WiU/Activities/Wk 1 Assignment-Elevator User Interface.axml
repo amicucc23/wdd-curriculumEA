@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<activity>
+	<course id='WiU'>Web Interface and Usability</course>
+	<title>Wk 1 Assignment-Elevator User Interface.axml</title>
+	<overview type='text/html'><![CDATA[<h2>Elevator User Interface</h2>
+
+<p>Thus far in WiU you have learned the basis for interaction design and usability. In order to design effective UI’s we need to employ both strategies to support the known users “behavior patterns”. When designing the purpose or goal of any interaction, simplify the design to provide only what the user needs to accomplish the task. In other words, design your interaction with intent. Then incorporate usability factors into the design to ensure that the user experience, while interacting with the artifact, is a pleasant one. THIS EXERCISE IS DUE AT THE BEGINNING OF LECTURE 3.</p>
+
+<p>The purpose of this exercise is to develop an elevator interface (UI) that will allow users to select a single floor from the 1000 floors available. It's meant to give a visual definition to complex abstract concepts. This exercise is also meant to reinforce the common characteristics of any UI. This will also help you develop a better understanding of the physical and cognitive aspects that should be considered when developing such a UI in order to make it intuitive and usable.  </p>]]></overview>
+	<tags>
+		<tag>assignment</tag>
+	</tags>
+	<instructions type='text/html'><![CDATA[<p>
+Design an elevator for a building with 1000 floors. This single elevator will be designed to travel from the ground floor to the 1000th floor. Use any graphic editor of your choice. Please address the following:</p>
+<ul>
+<li>How a user selects a floor</li>
+<li>How the selected floor is displayed to the user</li>
+<li>How all selected floors are queued and displayed to the user in order</li>
+<li>How floors are canceled from the queue by a user</li>
+<li>How a user can call for help</li>
+<li>How a user will receive help information from trained emergency personnel</li>
+<li>Design your UI with dimensions no larger than 7 inches</li> <li>Design your UI with consideration given to the usability and interactive design principles</li>
+<li>* Use "Call-outs" to describe the intent of an interaction if its results cannot be shown in the comp.</li> 
+</ul>
+
+
+<p>When you have completed this exercise:</p>
+<ul>
+<li>Compress your document for web delivery using .jpg format</li>
+<li>Title this file as:  WiU????_Lab2_last name_first name (???? = YYMM)</li>
+<li>Submit your document using the form provided by the lab instructor/course director</li>
+<li>Have a lab instructor/course director verify the transmission of your document for check-off</li>
+<li>* Please note: submissions without "call-outs" or the above file names, will receive a grade of 0.</li>
+</ul>
+
+<h4>Rubric - Elevator (Tangible Ui)</h4>
+<table border="2" rules="all">
+
+<tr>
+<th>Assesment</th>
+<th>25 Points</th>
+<th>13 Points</th>
+<th>0 Points</th>
+</tr>
+<tr>
+
+</tr>
+<td>Displaying & Selecting Floors</td>
+<td>The student's UI represents a method for displaying 1000 floors to the user. and The student's UI represents a way for users to select from any of the 1000 floors.</td>
+<td>The student's UI does not represent a method for displaying 1000 floors to the user. or The student's UI does not represent a way for users to select from any of the 1000 floors</td>
+<td>The student's UI does not represent a method for displaying 1000 floors to the user. and The student's UI does not represent a way for users to select from any of the 1000 floors. </td>
+</tr>
+
+<tr>
+<td>Cued & Cancelled Floors</td>
+<td>The student's UI represents a method for displaying the cue order of selected floors and The student's UI represents a method for canceling a floor request</td>
+<td>The student's UI does not represent a method for displaying the cue order of selected floors or The student's UI does not represent a method for canceling a request</td>
+<td>The student's UI does not represent a method for displaying the cue order of selected floors and The student's UI does not represent a method for canceling a request</td>
+</tr>
+
+
+<tr>
+<td>Calling & Receiving Help </td>
+<td>The student's UI represents an intuitive method for calling help and The student's UI represents an intuitive method for receiving help from emergency personnel</td>
+<td>The student's UI does not represents an intuitive method for calling help or The student's UI does not represents an intuitive method for receiving help from emergency personnel</td>
+<td>The student's UI does not represents an intuitive method for calling help and The student's UI does not represents an intuitive method for receiving help from emergency personnel</td>
+</tr>
+
+<tr>
+<td>UI Dimensions & Usability</td>
+<td>The students UI was designed within the predefined correct dimensions and The Students UI represents usability factors involved when interacting with an interface of this kind</td>
+<td>The students UI was not designed within the predefined correct dimensions and The Students UI does not represent usability factors involved when interacting with an interface of this kind</td>
+<td>The students UI was not delivered in the correct file format defined in this assignment (.jpg) and The Students file was not delivered using the correct file naming convention defined in this assignment</td>
+</tr>
+</table>]]></instructions>
+	<pushDate day='4' />
+	<pullDate day='9' />
+	<startDate day='4' />
+	<endDate day='9' />
+	<effort>
+		<research minutes='20'/>
+		<administrative minutes='5' />
+		<work minutes='180' />
+	</effort>
+	<targets>
+	</targets>
+	<deliverables>
+		<header>Save your design for web delivery in JPEG format.</header>
+		<archive filename='WiU????_Lab2_LastName_FirstName.zip'>
+			<file title='' formats='JPEG' filename='WiU????_Lab2_LastName_FirstName.zip'>Make sure that your submission is a zip file containing 1 or more JPEG showing the any and all states of your Ui.</file>
+		</archive>
+	</deliverables>
+	<objectives>
+		<header>null</header>
+	</objectives>
+	<intelligences>
+	</intelligences>
+	<guidelines>
+	</guidelines>
+	<resources>
+		<link title='Call-outs' href='http://www.basecamphq.com/tour' applicability='necessary'>Use “Call-outs” to describe the intent of an interaction if its results cannot be shown in the comp. Number and describe each element of the interface like the screenshots found here:</link>
+	</resources>
+</activity>

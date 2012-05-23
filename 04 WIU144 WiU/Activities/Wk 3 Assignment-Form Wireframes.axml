@@ -1,0 +1,392 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<activity>
+	<course id='WiU'>Web Interface and Usability</course>
+	<title>Wk 3 Assignment-Form Wireframes.axml</title>
+	<overview type='text/html'><![CDATA[<h2>Form Wireframes</h2>
+<p>Forms are everywhere on the web. They are used to sign-up, login, submit information or perform any e-commerce based transaction. Forms are by far one of the single most important aspects of the web today. Whether it is peer-to-peer (P2P), business-to-business (B2B) or business-to-consumer (B2C), forms alone support most of our online communications.  Businesses rely very heavily on the power of forms to collect user-supplied information for strategic marketing campaigns and improved convergence metrics. While users rely on them in order to communicate their ideas and thoughts with friends and businesses. Armed with this knowledge, it is our job as visual interface designers to make forms as easy and intuitive as possible to complete, and to avoid user abandonment’s. In other words the design and interaction of online forms is crucial to the continued success of the World Wide Web. THIS EXERCISE IS DUE AT THE BEGINNING OF LECTURE 7.</p>]]></overview>
+	<tags>
+		<tag>assignment</tag>
+	</tags>
+	<instructions type='text/html'><![CDATA[<ul>
+Design the worldsurf.com websites Sign-up page. Use the Functional Specifications document provided to:
+<li>Create high-fidelity wireframes with annotations, to represent content & interactivity in the Ui, as well as the design patterns used</li>
+<li>Your wire should include branding, navigation and the placement of graphical content elements (icons) and grouped content sections.</li>
+<li>Represent the best placement of form elements 
+These should include instructions, labels, inputs and controls, as well as the proposed interactivity and feedback available to the user (buttons, error messages and their placement, etc).</li>
+
+<li>Use "Annotations" to describe the patterns used and the reasoning for their use.</li> 
+
+When you have completed this exercise:
+<li>Compress your documents for web delivery using .jpg format</li>
+<li>Save your wireframes as:  WiU????_Lab6wire_last name_first name_1.jpg (???? = YYMM)</li>
+<li>Zip these wires together and save this zip file as: WiU????_Lab6_last name_first name</li>
+<li>Submit your zip file using the form provided by the lab instructor/course director</li>
+<li>* Please note: wires submitted without  "Annotations" or "low-fidelity", will receive a grade of 0.</li>
+</ul>
+
+<h4>Rubric - Sign-up Page Wireframe</h4>
+
+
+<table border="2" rules="all">
+
+
+<tr>
+
+<th>Category</th>
+
+<th>Exemplery</th>
+
+<th>Accomplished</th>
+
+<th>Competent</th>
+
+<th>Developing</th>
+
+<th>Null</th>
+
+</tr>
+
+
+<tr>
+
+<th>Function</th>
+
+<th>20 points per (3) category</th>
+
+<th>15 points per</th>
+
+<th>10 points per</th>
+
+<th>5 points per</th>
+
+<th>0 points per</th>
+
+</tr>
+
+</tr>
+
+
+<tr>
+
+<td>Navigation</td>
+
+<td>
+
+<ol>
+
+<li>A navigation model was incorporated to improve efficient exploring</li>
+
+<li>The  navigation component was placed in an intuitive position</li>
+
+<li>Navigation cues were defined and are meaningful and appropriate to the content they describe<li>
+
+<li>Navigation cues are consistent with the Functional Specifications Doc</li>
+
+</ol>
+
+</td>
+
+<td>All but 1 of the required design patterns were presented</td>
+
+<td>All but 2 of the required design patterns were presented</td>
+
+<td>All but 3 of the required design patterns were presented</td>
+
+<td>NONE of the required design patterns were presented</td>
+
+</tr>
+
+
+<tr>
+
+<td>Interactivity</td>
+
+<td>
+
+<ol>
+
+Textual links represent more content / Buttons represent available actions The following were presented using the correct affordance/ signifier:
+
+<li>Input fields</li>
+<li>Radio buttons</li>
+<li>Checkboxes</li>
+<li>"Become a Worldsurf Nomad" </li>
+<li>Agree to Terms</li>
+<li>Primary / Secondary actions</li>
+
+</ol>
+
+</td>
+
+<td>All but 1 of the required design patterns were presented</td>
+
+<td>All but 2 of the required design patterns were presented</td>
+
+<td>All but 3 of the required design patterns were presented</td>
+
+<td>NONE of the required design patterns were presented</td>
+
+</tr>
+
+
+
+<tr>
+
+<td>Requirements</td>
+
+<td>
+
+<ol>
+
+<li>Why Become a Member – list of 3 proposed benefits for signing up</li>
+
+<li>Form – first name, last name, email, address, city, state, country, zip, phone number, gender, age, destination countries of interest (choose from a list), agree to terms, become a worldsurf nomad, username, password, submit affordance/signifier</li>
+
+
+</ol>
+
+</td>
+
+<td>All but 1 of the required design patterns were presented</td>
+
+<td>All but 2 of the required design patterns were presented</td>
+
+<td>All but 3 of the required design patterns were presented</td>
+
+<td>NONE of the required design patterns were presented</td>
+
+</tr>
+
+
+<tr>
+
+<th>Form</th>
+
+<th>10 points per (3) category</th>
+
+<th>7 points per</th>
+
+<th>5 points per</th>
+
+<th>2 points per</th>
+
+<th>0 points per</th>
+
+</tr>
+
+</tr>
+
+
+
+<tr>
+
+<td>Visual Hierarchy</td>
+
+<td>
+
+<ol>
+
+<li>A  primary, secondary, page copy hierarchy is present</li>
+<li>Hierarchy utilizes effective white space to facilitate scanning</li>
+<li>Titles, page copy, feedback is differentiated using varied font sizes</li>
+<li>Typeface consistency supports the overall design strategy & context </li>
+<li>Sans Serif fonts used for page copy to support readability and usability</li>
+
+</ol>
+
+</td>
+
+
+<td>All but 1 of the required design patterns were presented
+
+</td>
+
+<td>All but 2 of the required design patterns were presented
+
+</td>
+
+<td>All but 3 of the required design patterns were presented
+
+</td>
+
+<td>NONE of the required design patterns were presented
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td>Visual Flow</td>
+
+<td>
+
+<ol>
+
+<li>Visual flow reinforces overall compositional movement</li>
+
+<li>Focal points were incorporated to aid movement</li>
+
+<li>Layout supports the intent of the interface (efficient form completion)</li>
+
+<li>Layout reflects efficient use of screen real estate to guide visual attention</li>
+
+</ol>
+
+</td>
+
+
+<td>All but 1 of the required design patterns were presented
+
+</td>
+
+<td>All but 2 of the required design patterns were presented
+
+</td>
+
+<td>All but 3 of the required design patterns were presented
+
+</td>
+
+<td>NONE of the required design patterns were presented
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td>Grouping & Alignment</td>
+
+<td>
+
+<ol>
+
+Page elements are distinguished utilizing these 4 Gestalt Principles:
+
+<li>Proximity</li>
+
+<li>Similarity</li>
+
+<li>Continuity</li>
+
+<li>Closure</li>
+
+<li>*Pre-attentive variables (color, size, shape, texture, etc) were modified for page elements that provide feedback to the user when completing the form </li>
+
+</ol>
+
+</td>
+
+<td>All but 1 of the required design patterns were presented
+
+</td>
+
+<td>All but 2 of the required design patterns were presented
+
+</td>
+
+<td>All but 3 of the required design patterns were presented
+
+</td>
+
+<td>NONE of the required design patterns were presented
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<th>Usability</th>
+
+<th>10 points per (3) category</th>
+
+<th>7 points per</th>
+
+<th>5 points per</th>
+
+<th>2 points per</th>
+
+<th>0 points per</th>
+
+</tr>
+
+
+<tr>
+
+<td>Design Patterns</td>
+
+<td>
+
+<ol>
+
+<li>Global navigation</li>
+
+    <li>Escape hatch</li>
+    <li>Titled sections</li>
+    <li>Right / left alignment</li>
+    <li>Wizard w/ sequence map (required for multiple page forms)</li>
+
+    <li>Input hints</li>
+    <li>Input prompts</li>
+    <li>Drop down chooser</li>
+    <li>Structured formatting</li>
+    <li>Responsive disclosure (1 page form)</li>
+    <li>Prominent "done" button</li>
+    <li>Same page error messages</li>
+
+</ol>
+
+</td>
+
+<td>All but 1 of the required design patterns were presented
+
+</td>
+
+<td>All but 2 of the required design patterns were presented
+
+</td>
+
+<td>All but 3 of the required design patterns were presented
+
+</td>
+
+<td>NONE of the required design patterns were presented
+
+</td>
+
+</tr>
+
+</table>]]></instructions>
+	<pushDate day='23' />
+	<pullDate day='25' />
+	<startDate day='23' />
+	<endDate day='25' />
+	<effort>
+		<research minutes='30'/>
+		<administrative minutes='1' />
+		<work minutes='180' />
+	</effort>
+	<targets>
+	</targets>
+	<deliverables>
+		<header>Save your wireframe for web delivery in JPEG format.</header>
+		<archive filename='WiU????_Lab6_LastName_FirstName.zip'>
+			<file title='---' formats='JPEG' filename='WiU????_Lab6_LastName_FirstName.zip'>---</file>
+		</archive>
+	</deliverables>
+	<objectives>
+		<header>null</header>
+	</objectives>
+	<intelligences>
+	</intelligences>
+	<guidelines>
+	</guidelines>
+	<resources>
+		<link title='Why It&apos;s Important to Annotate Wireframes' href='http://uxmovement.com/wireframes/why-its-important-to-annotate-your-wireframes/ ' applicability='necessary'>Describe each interface element like the screenshot in this link.</link>
+	</resources>
+</activity>

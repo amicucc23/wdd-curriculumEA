@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<activity>
+	<course id='WiU'>Web Interface and Usability</course>
+	<title>Wk3 Activity - Complex Data Patterns.axml</title>
+	<overview type='text/html'><![CDATA[]]></overview>
+	<tags>
+	</tags>
+	<instructions type='text/html'><![CDATA[]]></instructions>
+	<pushDate day='1' />
+	<pullDate day='1' />
+	<startDate day='1' />
+	<endDate day='1' />
+	<effort>
+		<research minutes='0'/>
+		<administrative minutes='0' />
+		<work minutes='0' />
+	</effort>
+	<targets>
+	</targets>
+	<deliverables>
+		<header>There are no deliverables for this activity.</header>
+	</deliverables>
+	<objectives>
+		<header>null</header>
+	</objectives>
+	<intelligences>
+	</intelligences>
+	<guidelines>
+	</guidelines>
+	<resources>
+	</resources>
+</activity>

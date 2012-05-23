@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<activity>
+	<course id=''></course>
+	<title>Activity.axml</title>
+	<overview type='text/html'><![CDATA[gighi]]></overview>
+	<tags>
+	</tags>
+	<instructions type='text/html'><![CDATA[gghigo]]></instructions>
+	<pushDate day='1' />
+	<pullDate day='1' />
+	<startDate day='1' />
+	<endDate day='1' />
+	<effort>
+		<research minutes='0'/>
+		<administrative minutes='0' />
+		<work minutes='0' />
+	</effort>
+	<targets>
+	</targets>
+	<deliverables>
+		<header></header>
+	</deliverables>
+	<objectives>
+		<header>null</header>
+	</objectives>
+	<intelligences>
+	</intelligences>
+	<guidelines>
+	</guidelines>
+	<resources>
+	</resources>
+</activity>

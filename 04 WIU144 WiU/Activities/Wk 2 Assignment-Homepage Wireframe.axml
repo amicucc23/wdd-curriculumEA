@@ -1,0 +1,236 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<activity>
+	<course id='WiU'>Web Interface and Usability</course>
+	<title>Wk 2 Assignment-Homepage Wireframe.axml</title>
+	<overview type='text/html'><![CDATA[<h2>Homepage Wireframe</h2>
+
+<p>When developing a solution for any clients Ui you should adhere to any functional specifications required for the Ui, as they are outlined in the functional specifications document. Wireframes are a great way to represent all aspects of a Ui with a lot less development time. They are meant to be a rough outline of the final Ui. Once the client has approved the wireframe, you can then precede to the visual design of the Ui. These designs are commonly referred to as “design comps” or “screens” (short for screen shots) and should reflect the final look and feel of the entire Ui. In other words design comps should look exactly like the finished product, as it will exist online.</p>
+
+<p>What is a functional spec? The main goal of a functional specifications document is to outline the functionality and criteria required for the website or application and is usually drafted during the Concept Phase of the project. It is meant to act as a blueprint that can be referred to by the client and developer during the course of the project to ensure all project requirements have been met. Once the document has been reviewed and signed off by both parties, the Design Phase can begin. </p>]]></overview>
+	<tags>
+		<tag>assignment</tag>
+	</tags>
+	<instructions type='text/html'><![CDATA[<ul>
+<p>Design the homepage for worldsurf.com. Use the Functional Specifications document provided to:</p> 
+<li>Create a high-fidelity wireframe with call outs, to outline the placement of content within the Ui </li>
+<li>Your wire should include branding, navigation (and sub nav if appropriate), the placement of graphical content elements (icons) within their grouped content sections, as well as copy placement and the proposed interactivity available to the user (buttons, links, etc). </li>
+
+</ul>
+
+<ul>
+<p>When you have completed this exercise:</p>
+<li>Compress your documents for web delivery using .jpg format</li>
+<li>Save your wireframe as:  WiU????_Lab4wire_last name_first name (???? = YYMM)</li>
+<li>Save your Ui as:  WiU????_Lab4Ui_last name_first name (???? = YYMM)</li>
+<li>Zip these documents together and Save this zip file as: WiU????_Lab4_last name_first name</li>
+<li>Submit your zip file using the form provided by the lab instructor/course director</li>
+<li>* Please note: wires submitted without "call-outs" or "low-fidelity", will receive a grade of 0.</li>
+</ul>
+<h4>Rubric - Homepage Wireframe</h4>
+<table border="2" rules="all">
+
+<tr>
+<th>Category</th>
+<th>Exemplery</th>
+<th>Accomplished</th>
+<th>Competent</th>
+<th>Developing</th>
+<th>Null</th>
+</tr>
+
+<tr>
+<th>Function</th>
+<th>20 points per (3) category</th>
+<th>15 points per</th>
+<th>10 points per</th>
+<th>5 points per</th>
+<th>0 points per</th>
+</tr>
+</tr>
+
+<tr>
+<td>Navigation</td>
+<td>
+<ol>
+<li>The correct navigation model was incorporated</li>
+<li>The  navigation component was placed in an intuitive position</li>
+<li>Navigation cues were defined and are meaningful and appropriate to the content they describe<li>
+<li>Navigation cues are consistent with the Functional Specifications Doc</li>
+</ol>
+</td>
+<td>All but 1 of the required design patterns were presented</td>
+<td>All but 2 of the required design patterns were presented</td>
+<td>All but 3 of the required design patterns were presented</td>
+<td>NONE of the required design patterns were presented</td>
+</tr>
+
+<tr>
+<td>Interactivity</td>
+<td>
+<ol>
+Textual links represent more content / Buttons represent available actions The following were presented using the correct affordance/ signifier:
+<li>Log in form input fields with labels</li>
+<li>Log in form submit </li>
+<li>Navigation cues </li>
+<li>Featured destinations "Read more" signifier</li>
+<li>"Sign-up" signifier</li>
+</ol>
+</td>
+<td>All but 1 of the required design patterns were presented</td>
+<td>All but 2 of the required design patterns were presented</td>
+<td>All but 3 of the required design patterns were presented</td>
+<td>NONE of the required design patterns were presented</td>
+</tr>
+
+
+<tr>
+<td>Requirements</td>
+<td>
+<ol>
+<li>Site introduction copy</li>
+<li>Become a member - list of benefits, sign-up signifier
+</li>
+<li>Log in form – user, pass labels and fields, remember me, submit signifier</li>
+<li>Featured destination – photo, title, description, read more signifier</li>
+</ol>
+</td>
+<td>All but 1 of the required design patterns were presented</td>
+<td>All but 2 of the required design patterns were presented</td>
+<td>All but 3 of the required design patterns were presented</td>
+<td>NONE of the required design patterns were presented</td>
+</tr>
+
+<tr>
+<th>Form</th>
+<th>10 points per (3) category</th>
+<th>7 points per</th>
+<th>5 points per</th>
+<th>2 points per</th>
+<th>0 points per</th>
+</tr>
+</tr>
+
+
+<tr>
+<td>Visual Hierarchy</td>
+<td>
+<ol>
+<li>A  primary, secondary, page copy hierarchy is present</li>
+<li>Hierarchy utilizes effective white space to facilitate scanning</li>
+<li>Titles, page copy, feedback is differentiated using varied font sizes</li>
+<li>Typeface consistency supports the overall design strategy & context </li>
+<li>Sans Serif fonts used for page copy to support readability and usability</li>
+</ol>
+</td>
+
+<td>All but 1 of the required design patterns were presented
+</td>
+<td>All but 2 of the required design patterns were presented
+</td>
+<td>All but 3 of the required design patterns were presented
+</td>
+<td>NONE of the required design patterns were presented
+</td>
+</tr>
+
+<tr>
+<td>Visual Flow</td>
+<td>
+<ol>
+<li>Visual flow reinforces overall compositional movement</li>
+<li>Focal points were incorporated to aid movement</li>
+<li>Layout supports the intent of the interface (efficient form completion)</li>
+<li>Layout reflects efficient use of screen real estate to guide visual attention</li>
+</ol>
+</td>
+
+<td>All but 1 of the required design patterns were presented
+</td>
+<td>All but 2 of the required design patterns were presented
+</td>
+<td>All but 3 of the required design patterns were presented
+</td>
+<td>NONE of the required design patterns were presented
+</td>
+</tr>
+
+<tr>
+<td>Grouping & Alignment</td>
+<td>
+<ol>
+Page elements are distinguished utilizing these 4 Gestalt Principles:
+<li>Proximity</li>
+<li>Similarity</li>
+<li>Continuity</li>
+<li>Closure</li>
+</ol>
+</td>
+<td>All but 1 of the required design patterns were presented
+</td>
+<td>All but 2 of the required design patterns were presented
+</td>
+<td>All but 3 of the required design patterns were presented
+</td>
+<td>NONE of the required design patterns were presented
+</td>
+</tr>
+
+<tr>
+<th>Usability</th>
+<th>10 points per (3) category</th>
+<th>7 points per</th>
+<th>5 points per</th>
+<th>2 points per</th>
+<th>0 points per</th>
+</tr>
+
+<tr>
+<td>Design Patterns</td>
+<td>
+<ol>
+<li>Global navigation</li>
+<li>Escape hatch</li>
+<li>Titled sections</li>
+<li>Right / left alignment</li>
+<li>Prominent “done” buttons </li>
+</ol>
+</td>
+<td>All but 1 of the required design patterns were presented
+</td>
+<td>All but 2 of the required design patterns were presented
+</td>
+<td>All but 3 of the required design patterns were presented
+</td>
+<td>NONE of the required design patterns were presented
+</td>
+</tr>
+</table>]]></instructions>
+	<pushDate day='4' />
+	<pullDate day='5' />
+	<startDate day='4' />
+	<endDate day='5' />
+	<effort>
+		<research minutes='30'/>
+		<administrative minutes='1' />
+		<work minutes='180' />
+	</effort>
+	<targets>
+	</targets>
+	<deliverables>
+		<header>Save your wireframe for web delivery in JPEG format.</header>
+		<archive filename='WiU????_Lab4_LastName_FirstName.zip'>
+			<file title='' formats='JPEG' filename='WiU????_Lab4_LastName_FirstName.zip'>Make sure that your submission is a zip file containing 1 or more JPEG showing the any and all states of your Ui.</file>
+		</archive>
+	</deliverables>
+	<objectives>
+		<header>null</header>
+	</objectives>
+	<intelligences>
+	</intelligences>
+	<guidelines>
+	</guidelines>
+	<resources>
+		<video title='Video Resource Title' href='http://www.strangesystems.net/archives/000005.php#2 ' minutes='5' applicability='necessary'>Resource description</video>
+		<video title='Creating a Wireframe Using OmniGraffle' href='http://www.lynda.com/OmniGraffle-5-tutorials/creating-web-sitemaps-and-wireframes/63345-2.html?srchtrk=index%3A1%0Alinktypeid%3A2%0Aq%3Aomnigraffle5%0Apage%3A1%0As%3Arelevance%0Asa%3Atrue%0Aproducttypeid%3A2' minutes='15' applicability='helpful'>This resource will help you learn to use OmniGraffle to easily create a wireframe .</video>
+	</resources>
+</activity>

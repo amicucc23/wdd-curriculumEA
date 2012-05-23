@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<activity>
+	<course id='WiU'>Web Interface and Usability</course>
+	<title>Wk 1 Assignment-Good &amp; Bad Designs.axml</title>
+	<overview type='text/html'><![CDATA[<h2>Good and Bad Designs in the Real World</h2>
+
+<p>Interaction design has become a hot commodity. More and more companies are turning to interactive designers to help them discover ways to improve the products they create. By thinking of all the various ways users will interact with these products, designers can work to improve the usability aspects, thus increasing the potential that people will want to continuing using it. In other words, if it's hard to figure out or use, people won't use it.
+
+THIS ACTIVITY IS DUE AT THE BEGINNING OF LECTURE 2.</p>
+
+<p>The purpose of this exercise is to get you thinking about everyday artifacts that we all interact with in the real world. Don't think computers or phones, think analog or tangible. What makes these things work? More importantly, what makes them work so well?</p>]]></overview>
+	<tags>
+		<tag>assignment</tag>
+	</tags>
+	<instructions type='text/html'><![CDATA[<ul>
+<li>Find 3 examples each of good & bad design on or around Full Sail's campus</li>		
+<li>Take a picture of your FS badge with the artifact (optimize for web to reduce file size)</li>		
+<li>Paste each artifact picture into this word document</li>		
+<li>Below each picture identify these things about the artifact shown: (use black font)</li>		
+<li>Where the artifact is located (if outside of campus please provide exact location)</li>
+<li>Description of the artifact (what it does / what is its intent)</li>		
+<li>What makes it a good or bad design (based on the artifacts intent)</li>
+<li>If good, list and define how each usability factor is supported within the design</li>
+<li>If bad, what aspects of the design could be improved to make it more usable</li>		
+<li>Be prepared to present your findings in our next lecture (peer evaluation)</li>
+</ul>
+
+<h4>Rubric - Good & Bad Designs (Tangible Artifacts)</h4>
+<table border="2" rules="all">
+
+<tr>
+<th>Assesment</th>
+<th>5 Points</th>
+<th>3 Points</th>
+<th>2 Points</th>
+<th>1 Point</th>
+<th>0 Points</th>
+</tr>
+<tr>
+
+</tr>
+<td>Picture of Artifact</td>
+
+<td>A clear picture of the artifact was provided -AND- The picture reflects the student interacting with it.</td>
+<td></td>
+<td>A clear picture of the artifact was provided -YET- The picture does NOT reflect the student interacting with it.</td>
+<td>AN UNclear picture of the artifact was provided -YET- The picture reflects the student interacting with it.</td>
+<td>A picture of the artifact was NOT provided</td>
+</tr>
+
+<tr>
+<td>Location of Artifact</td>
+<td></td>
+<td></td>
+<td>The location of the artifact was provided</td>
+<td></td>
+<td>The location of the artifact was NOT provided</td>
+</tr>
+
+
+<tr>
+<td>Description of Artifact</td>
+<td></td>
+<td></td>
+<td></td>
+<td>A description of the artifact was clearly defined</td>
+<td>A description of the artifact was NOT provided</td>
+</tr>
+
+<tr>
+<td>What Makes the Artifact Good or Bad</td>
+<td></td>
+<td></td>
+<td>An explanation of why the artifact is a good design was clearly defined -OR- An explanation of why the artifact is a bad design was clearly defined</td>
+<td>An explanation of why the artifact is a good design was NOT clearly defined -OR- An explanation of why the artifact is a bad design was NOT clearly defined</td>
+<td>An explanation of why the artifact is a good design was NOT provided -OR- An explanation of why the artifact is a bad design was NOT provided</td>
+</tr>
+
+<tr>
+<td>Usability Principles & Improvements</td>
+<td>How ALL usability principles are reflected in a good design was clearly defined -OR- A method for improving a bad design with usability principles was clearly defined</td>
+<td>No more than one usability principle and how it is reflected in a good design was NOT clearly defined -OR- A method for improving a bad design with usability principles was NOT clearly defined</td>
+<td>No more than 2 of the usability principles and how they are reflected in a good design were NOT clearly defined</td>
+<td>No more than 3 of the usability principles and how they are reflected in a good design were NOT clearly defined</td>
+<td>How ALL usability principles are reflected in a good design was NOT defined -OR- A method for improving a bad design with usability principles was NOT defined</td>
+</tr>
+
+</table>]]></instructions>
+	<pushDate day='2' />
+	<pullDate day='4' />
+	<startDate day='2' />
+	<endDate day='4' />
+	<effort>
+		<research minutes='20'/>
+		<administrative minutes='0' />
+		<work minutes='28' />
+	</effort>
+	<targets>
+	</targets>
+	<deliverables>
+		<header>Exclude page one and save the rest as a PDF for turn in</header>
+		<archive filename='WiU????_Lab1_LastName_FirstName.zip'>
+			<file title='' formats='PDF' filename='WiU????_Lab1_LastName_FirstName.zip'>Make sure your submission is a zip file containing a pdf with your work, excluding page one (the instructions).</file>
+		</archive>
+	</deliverables>
+	<objectives>
+		<header>null</header>
+	</objectives>
+	<intelligences>
+	</intelligences>
+	<guidelines>
+	</guidelines>
+	<resources>
+		<book title='Designing Interfaces' chapters='1' pages='1-23' applicability='necessary'>What users do.</book>
+	</resources>
+</activity>

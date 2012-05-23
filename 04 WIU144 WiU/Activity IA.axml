@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<activity>
+	<course id='WiU'>Web Interface and Usability</course>
+	<title>Activity IA.axml</title>
+	<overview type='text/html'><![CDATA[<h2>Information Architecture</h2>]]></overview>
+	<tags>
+		<tag>activity</tag>
+	</tags>
+	<instructions type='text/html'><![CDATA[]]></instructions>
+	<pushDate day='3' />
+	<pullDate day='3' />
+	<startDate day='3' />
+	<endDate day='3' />
+	<effort>
+		<research minutes='0'/>
+		<administrative minutes='120' />
+		<work minutes='0' />
+	</effort>
+	<targets>
+	</targets>
+	<deliverables>
+		<header>There are no deliverables for this activity.</header>
+		<discuss words=''>
+			<text>Discuss why the...</text>
+		</discuss>
+	</deliverables>
+	<objectives>
+		<header>null</header>
+	</objectives>
+	<intelligences>
+	</intelligences>
+	<guidelines>
+	</guidelines>
+	<resources>
+		<book title='Designing Interfaces: Patterns for Effective Interaction Design' chapters='2' pages='25-76' applicability='necessary'>Organizing the Content:Information Architecture and Application Structure.</book>
+	</resources>
+</activity>
